@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'FlatBuffersC'
-  s.version          = '0.0.11'
+  s.version          = '0.0.12'
   s.summary          = 'FlatBuffersC is a C implementation of FlatBuffers.'
 
   s.description      = <<-DESC
@@ -18,4 +18,5 @@ FlatBuffersC is a C implementation of FlatBuffers.
   # s.source_files = 'flatbuffers/include/**/*.h'
   # s.source_files = 'flatcc/**/*.h'
   s.source_files = 'flatbuffers/**/*.h'
+  s.frameworks = 'Foundation'
 end

@@ -1,5 +1,5 @@
 PODS:
-  - FlatBuffersC (0.0.10)
+  - FlatBuffersC (0.0.12)
 
 DEPENDENCIES:
   - FlatBuffersC (from `./`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "./"
 
 SPEC CHECKSUMS:
-  FlatBuffersC: a46a9491f70557131bccad0bfde962e3659f6003
+  FlatBuffersC: ab7284727bdc77fb99e9c259512415f1e01eee53
 
 PODFILE CHECKSUM: ea8869996a8946c732abc65036d9a716234bac03
 

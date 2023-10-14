@@ -1,6 +1,6 @@
 {
   "name": "FlatBuffersC",
-  "version": "0.0.10",
+  "version": "0.0.12",
   "summary": "FlatBuffersC is a C implementation of FlatBuffers.",
   "description": "FlatBuffers is an efficient cross platform serialization library.\nFlatBuffersC is a C implementation of FlatBuffers.",
   "homepage": "https://github.com/numandev1/FlatBuffersC",
@@ -13,10 +13,11 @@
   },
   "source": {
     "git": "https://github.com/numandev1/FlatBuffersC.git",
-    "tag": "0.0.10"
+    "tag": "0.0.12"
   },
   "platforms": {
     "ios": "12.0"
   },
-  "source_files": "flatbuffers/**/*.h"
+  "source_files": "flatbuffers/**/*.h",
+  "frameworks": "Foundation"
 }
