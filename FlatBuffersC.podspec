@@ -16,5 +16,5 @@ FlatBuffersC is a C implementation of FlatBuffers.
   s.ios.deployment_target = '8.0'
 
   # s.source_files = 'flatbuffers/include/**/*.h'
-  s.source_files = 'flatcc/include/**/*.h'
+  s.source_files = 'flatcc/.+.h'
 end
