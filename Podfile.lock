@@ -1,0 +1,16 @@
+PODS:
+  - FlatBuffersC (0.0.10)
+
+DEPENDENCIES:
+  - FlatBuffersC (from `./`)
+
+EXTERNAL SOURCES:
+  FlatBuffersC:
+    :path: "./"
+
+SPEC CHECKSUMS:
+  FlatBuffersC: a46a9491f70557131bccad0bfde962e3659f6003
+
+PODFILE CHECKSUM: ea8869996a8946c732abc65036d9a716234bac03
+
+COCOAPODS: 1.13.0

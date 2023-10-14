@@ -1,0 +1,1 @@
+../../../../flatbuffers/registry.h
