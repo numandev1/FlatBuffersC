@@ -14,10 +14,6 @@ FlatBuffersC is a C implementation of FlatBuffers.
   s.source           = { :git => 'https://github.com/numandev1/FlatBuffersC.git', :tag => s.version }
 
   s.ios.deployment_target = '8.0'
-  s.osx.deployment_target = '10.10'
-  s.watchos.deployment_target = '2.0'
-  s.tvos.deployment_target = '9.0'
 
   s.source_files = 'flatbuffers/include/**/*.h'
-  s.framework = "Foundation"
 end
